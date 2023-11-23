@@ -1,0 +1,10 @@
+D:\practic exercise\assignment19\RealAlgebra\RealAlgebra\bin\Debug\RealAlgebra.exe.config
+D:\practic exercise\assignment19\RealAlgebra\RealAlgebra\bin\Debug\RealAlgebra.exe
+D:\practic exercise\assignment19\RealAlgebra\RealAlgebra\bin\Debug\RealAlgebra.pdb
+D:\practic exercise\assignment19\RealAlgebra\RealAlgebra\bin\Debug\ShapeAreaLib.dll
+D:\practic exercise\assignment19\RealAlgebra\RealAlgebra\bin\Debug\ShapeAreaLib.pdb
+D:\practic exercise\assignment19\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.csproj.AssemblyReference.cache
+D:\practic exercise\assignment19\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.csproj.CoreCompileInputs.cache
+D:\practic exercise\assignment19\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.csproj.CopyComplete
+D:\practic exercise\assignment19\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.exe
+D:\practic exercise\assignment19\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.pdb

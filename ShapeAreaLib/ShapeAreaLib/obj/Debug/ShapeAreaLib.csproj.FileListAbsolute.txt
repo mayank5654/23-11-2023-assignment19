@@ -1,0 +1,6 @@
+D:\practic exercise\assignment19\ShapeAreaLib\ShapeAreaLib\bin\Debug\ShapeAreaLib.dll
+D:\practic exercise\assignment19\ShapeAreaLib\ShapeAreaLib\bin\Debug\ShapeAreaLib.pdb
+D:\practic exercise\assignment19\ShapeAreaLib\ShapeAreaLib\obj\Debug\ShapeAreaLib.csproj.AssemblyReference.cache
+D:\practic exercise\assignment19\ShapeAreaLib\ShapeAreaLib\obj\Debug\ShapeAreaLib.csproj.CoreCompileInputs.cache
+D:\practic exercise\assignment19\ShapeAreaLib\ShapeAreaLib\obj\Debug\ShapeAreaLib.dll
+D:\practic exercise\assignment19\ShapeAreaLib\ShapeAreaLib\obj\Debug\ShapeAreaLib.pdb
